@@ -1,0 +1,11 @@
+C:\Users\david\desktop\home\Elevator\bin\Debug\netcoreapp2.0\Elevator.deps.json
+C:\Users\david\desktop\home\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.json
+C:\Users\david\desktop\home\Elevator\bin\Debug\netcoreapp2.0\Elevator.runtimeconfig.dev.json
+C:\Users\david\desktop\home\Elevator\bin\Debug\netcoreapp2.0\Elevator.dll
+C:\Users\david\desktop\home\Elevator\bin\Debug\netcoreapp2.0\Elevator.pdb
+C:\Users\david\desktop\home\Elevator\obj\Debug\netcoreapp2.0\Elevator.csprojAssemblyReference.cache
+C:\Users\david\desktop\home\Elevator\obj\Debug\netcoreapp2.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\david\desktop\home\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfoInputs.cache
+C:\Users\david\desktop\home\Elevator\obj\Debug\netcoreapp2.0\Elevator.AssemblyInfo.cs
+C:\Users\david\desktop\home\Elevator\obj\Debug\netcoreapp2.0\Elevator.dll
+C:\Users\david\desktop\home\Elevator\obj\Debug\netcoreapp2.0\Elevator.pdb
